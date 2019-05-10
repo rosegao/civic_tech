@@ -8,4 +8,4 @@
 
 <input id="pac-input" class="controls" type="text" placeholder="Search Box">
 <div id="map"></div>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14Rxn6ZwGMP4LSn7p959a6hTDaDpEIal1" width="640" height="1500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14Rxn6ZwGMP4LSn7p959a6hTDaDpEIal1" width="800" height="1000"></iframe>
