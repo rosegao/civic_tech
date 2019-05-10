@@ -6,4 +6,4 @@
 
 3. Importing the above Google Sheet to Google Maps, and embedded it:
 <div id="map"></div>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14Rxn6ZwGMP4LSn7p959a6hTDaDpEIal1" width="600" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14Rxn6ZwGMP4LSn7p959a6hTDaDpEIal1" width="600" height="400"></iframe>
